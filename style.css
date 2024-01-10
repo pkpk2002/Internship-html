@@ -8,11 +8,11 @@
 		.main1{
 			width: 40%;
 			height: 3000px;
-			border: 5px solid black;
+			border: 5px solid rgb(231, 35, 35);
 			font-size: 50px;
 			background:url('bk.jpg')  ;
 			background-size: cover;
-			color: ghostwhite;
+			color: rgb(22, 22, 241);
 
 		}
 		.row1{
